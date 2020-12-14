@@ -1,4 +1,4 @@
 # Ignore this directory, under the root
 /ignoreThis
 # ignore this file whereever you see it
-ignoreFile
+ignoreFile*
